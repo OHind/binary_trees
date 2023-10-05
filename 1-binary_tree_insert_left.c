@@ -4,7 +4,7 @@
  * binary_tree_insert_left - insert a node as the left child
  * @parent: The tree to insert into
  * @value: The value to insert
- * Return: The updated node
+ * Return: A pointer to the new node
  */
 binary_tree_t *binary_tree_insert_left(binary_tree_t *parent, int value)
 {
